@@ -1,7 +1,7 @@
-# Lambda Function Example in AWS CDK - Complete Guide
+# Configure Lambda Log Retention in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-lambda-function-example)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-lambda-log-retention)
 
 ## How to Use
 
